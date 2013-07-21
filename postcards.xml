@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<postcards num="2" ver="13">
+
+  <card name="soliter" num="1" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="duo_landscape" num="2" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.500" />
+	  <rect left="0.000" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="duo_landscape_uneven" num="2" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.600" />
+	  <rect left="0.000" top="0.600" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="duo_postcard" num="2" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="1.000" />
+	  <rect left="0.500" top="0.000" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="kwarted" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.500" />
+	  <rect left="0.500" top="0.000" right="1.000" bottom="0.500" />
+	  <rect left="0.000" top="0.500" right="0.500" bottom="1.000" />
+	  <rect left="0.500" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="down_1_2" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.35" />
+      <rect left="0.00" top="0.35" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.35" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_1_2_a" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_1_3" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.35" />
+      <rect left="0.00" top="0.35" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.35" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.35" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_1_3_a" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.50" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_1" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.65" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.65" />
+      <rect left="0.00" top="0.65" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_1_a" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.50" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_2_a" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.65" bottom="0.50" />
+      <rect left="0.65" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.35" bottom="1.00" />
+      <rect left="0.35" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_2_b" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.35" bottom="0.50" />
+      <rect left="0.35" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.65" bottom="1.00" />
+      <rect left="0.65" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_3" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.35" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.35" />
+      <rect left="0.00" top="0.35" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.35" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.35" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_2_3_a" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.50" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.50" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_3_1" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.65" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.65" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.65" />
+      <rect left="0.00" top="0.65" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_3_1_a" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.50" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.50" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_3_2" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.65" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.65" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.65" />
+      <rect left="0.00" top="0.65" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.65" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_3_2_a" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.50" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.50" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="down_3_3" num="6" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.50" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.50" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.50" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="layer_1_1_a" num="2" type="loose">
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.66" />
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="layer_1_1_b" num="2" type="loose">
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.66" />
+  </card>
+  
+  <card name="layer_4_1_a" num="5" type="loose">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.50" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+      <rect left="0.25" top="0.25" right="0.75" bottom="0.75" />
+  </card>
+  
+  <card name="layer_base_a_1" num="2" type="loose">
+      <rect left="0.00" top="0.00" right="1.00" bottom="1.00" />
+      <rect left="0.25" top="0.25" right="0.75" bottom="0.75" />
+  </card>
+  
+  <card name="layer_base_a_2" num="2" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.075" top="0.075" right="0.575" bottom="0.575" />
+  </card>
+  
+  <card name="layer_base_a_3" num="2" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.425" top="0.425" right="0.925" bottom="0.925" />
+  </card>
+    
+  <card name="layer_base_b_1" num="3" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.050" top="0.050" right="0.475" bottom="0.475" />
+      <rect left="0.525" top="0.525" right="0.950" bottom="0.950" />
+  </card>
+    
+  <card name="layer_base_b_2" num="3" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.525" top="0.050" right="0.950" bottom="0.475" />
+      <rect left="0.050" top="0.525" right="0.475" bottom="0.950" />
+  </card>
+  
+  <card name="layer_base_b_3" num="3" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.050" top="0.050" right="0.475" bottom="0.475" />
+      <rect left="0.050" top="0.525" right="0.475" bottom="0.950" />
+  </card>
+  
+  <card name="layer_base_c_1" num="4" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.525" top="0.050" right="0.950" bottom="0.475" />
+      <rect left="0.050" top="0.525" right="0.475" bottom="0.950" />
+      <rect left="0.525" top="0.525" right="0.950" bottom="0.950" />
+  </card>
+  
+  <card name="layer_base_d_1" num="5" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.050" top="0.050" right="0.475" bottom="0.475" />
+      <rect left="0.525" top="0.050" right="0.950" bottom="0.475" />
+      <rect left="0.050" top="0.525" right="0.475" bottom="0.950" />
+      <rect left="0.525" top="0.525" right="0.950" bottom="0.950" />
+  </card>
+  
+  <card name="layer_base_d_2" num="6" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.050" top="0.050" right="0.475" bottom="0.475" />
+      <rect left="0.525" top="0.050" right="0.950" bottom="0.475" />
+      <rect left="0.050" top="0.525" right="0.475" bottom="0.950" />
+      <rect left="0.525" top="0.525" right="0.950" bottom="0.950" />
+      <rect left="0.290" top="0.290" right="0.710" bottom="0.710" />
+  </card>
+  
+  <card name="layer_base_d_3" num="6" type="loose">
+      <rect left="0.000" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.000" right="0.425" bottom="0.425" />
+      <rect left="0.575" top="0.000" right="1.000" bottom="0.425" />
+      <rect left="0.000" top="0.575" right="0.425" bottom="1.000" />
+      <rect left="0.575" top="0.575" right="1.000" bottom="1.000" />
+      <rect left="0.290" top="0.290" right="0.710" bottom="0.710" />
+  </card>
+  
+  <card name="main_a_01" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_02" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.25" right="1.00" bottom="1.00" />
+  </card>
+  
+   <card name="main_a_03" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.50" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_04" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_05" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_06" num="7" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_07" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.50" bottom="0.75" />
+      <rect left="0.50" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_08" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.33" bottom="0.75" />
+      <rect left="0.33" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_a_09" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.66" bottom="0.75" />
+      <rect left="0.66" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_01" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.75" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_02" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.00" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_03" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.50" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.25" bottom="1.00" />
+      <rect left="0.75" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+   <card name="main_b_04" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.75" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.75" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_05" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.33" />
+      <rect left="0.25" top="0.00" right="1.00" bottom="1.00" />
+      <rect left="0.00" top="0.33" right="0.25" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.25" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_06" num="7" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.33" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.25" bottom="0.66" />
+      <rect left="0.75" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.25" bottom="1.00" />
+      <rect left="0.75" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_07" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.33" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="0.50" />
+      <rect left="0.25" top="0.50" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.25" bottom="0.66" />
+      <rect left="0.75" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.25" bottom="1.00" />
+      <rect left="0.75" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_08" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.33" />
+      <rect left="0.25" top="0.00" right="0.50" bottom="0.33" />
+      <rect left="0.50" top="0.00" right="0.75" bottom="0.33" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.25" bottom="0.66" />
+      <rect left="0.25" top="0.33" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.25" bottom="1.00" />
+      <rect left="0.75" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_09" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.33" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="0.66" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.25" bottom="0.66" />
+      <rect left="0.75" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.66" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.66" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_10" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.50" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.66" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="0.75" />
+      <rect left="0.33" top="0.50" right="0.66" bottom="0.75" />
+      <rect left="0.66" top="0.50" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_11" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.66" bottom="0.75" />
+      <rect left="0.66" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.66" top="0.50" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_12" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.33" bottom="0.50" />
+      <rect left="0.33" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.75" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_b_13" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.25" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.25" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.33" bottom="0.50" />
+      <rect left="0.33" top="0.25" right="0.66" bottom="0.50" />
+      <rect left="0.66" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.33" bottom="0.75" />
+      <rect left="0.33" top="0.50" right="1.00" bottom="1.00" />
+      <rect left="0.00" top="0.75" right="0.33" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_01" num="6" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.33" />
+      <rect left="0.33" top="0.00" right="0.66" bottom="0.33" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.33" bottom="0.66" />
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+      <rect left="0.00" top="0.66" right="0.33" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_02" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="0.33" />
+      <rect left="0.33" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_03" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.25" />
+      <rect left="0.25" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.25" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_04" num="6" type="compact">
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.66" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.66" top="0.33" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.66" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_05" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.66" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="0.66" bottom="1.00" />
+      <rect left="0.66" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_06" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.75" bottom="0.75" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_07" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.00" top="0.33" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_08" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.33" bottom="1.00" />
+      <rect left="0.33" top="0.00" right="1.00" bottom="0.33" />
+      <rect left="0.33" top="0.33" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_c_09" num="3" type="compact">
+      <rect left="0.00" top="0.00" right="0.66" bottom="0.66" />
+      <rect left="0.66" top="0.00" right="1.00" bottom="0.66" />
+      <rect left="0.00" top="0.66" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_01" num="13" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.25" />
+      <rect left="0.25" top="0.00" right="0.50" bottom="0.25" />
+      <rect left="0.50" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.25" />
+      
+      <rect left="0.00" top="0.25" right="0.25" bottom="0.50" />
+      <rect left="0.25" top="0.25" right="0.75" bottom="0.75" />
+      <rect left="0.75" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.25" bottom="0.75" />
+      <rect left="0.75" top="0.50" right="1.00" bottom="0.75" />
+      
+      <rect left="0.00" top="0.75" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.75" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.75" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_02" num="5" type="compact">
+      <rect left="0.00" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.25" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.25" right="0.75" bottom="0.75" />      
+      <rect left="0.25" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_03" num="9" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.25" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.25" bottom="0.75" />
+      <rect left="0.25" top="0.25" right="0.75" bottom="0.75" />
+      <rect left="0.75" top="0.25" right="1.00" bottom="0.75" />      
+      <rect left="0.00" top="0.75" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.75" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_04" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.25" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.25" bottom="0.75" />
+      <rect left="0.25" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.75" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_05" num="10" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.50" />
+      
+      <rect left="0.50" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.50" top="0.25" right="0.75" bottom="0.50" />
+      <rect left="0.75" top="0.25" right="1.00" bottom="0.50" />
+      
+      <rect left="0.00" top="0.50" right="0.25" bottom="0.75" />
+      <rect left="0.25" top="0.50" right="0.50" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.75" right="0.50" bottom="1.00" />
+      
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_d_06" num="13" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="0.25" />
+      <rect left="0.25" top="0.00" right="0.50" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="0.25" bottom="0.50" />
+      <rect left="0.25" top="0.25" right="0.50" bottom="0.50" />
+      
+      <rect left="0.50" top="0.00" right="0.75" bottom="0.25" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.50" top="0.25" right="0.75" bottom="0.50" />
+      <rect left="0.75" top="0.25" right="1.00" bottom="0.50" />
+      
+      <rect left="0.00" top="0.50" right="0.25" bottom="0.75" />
+      <rect left="0.25" top="0.50" right="0.50" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.75" right="0.50" bottom="1.00" />
+      
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="main_e_01" num="25" type="compact">
+      <rect left="0.00" top="0.00" right="0.20" bottom="0.20" />
+      <rect left="0.20" top="0.00" right="0.40" bottom="0.20" />
+      <rect left="0.40" top="0.00" right="0.60" bottom="0.20" />
+      <rect left="0.60" top="0.00" right="0.80" bottom="0.20" />
+      <rect left="0.80" top="0.00" right="1.00" bottom="0.20" />
+      
+      <rect left="0.00" top="0.20" right="0.20" bottom="0.40" />
+      <rect left="0.20" top="0.20" right="0.40" bottom="0.40" />
+      <rect left="0.40" top="0.20" right="0.60" bottom="0.40" />
+      <rect left="0.60" top="0.20" right="0.80" bottom="0.40" />
+      <rect left="0.80" top="0.20" right="1.00" bottom="0.40" />
+      
+      <rect left="0.00" top="0.40" right="0.20" bottom="0.60" />
+      <rect left="0.20" top="0.40" right="0.40" bottom="0.60" />
+      <rect left="0.40" top="0.40" right="0.60" bottom="0.60" />
+      <rect left="0.60" top="0.40" right="0.80" bottom="0.60" />
+      <rect left="0.80" top="0.40" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.60" right="0.20" bottom="0.80" />
+      <rect left="0.20" top="0.60" right="0.40" bottom="0.80" />
+      <rect left="0.40" top="0.60" right="0.60" bottom="0.80" />
+      <rect left="0.60" top="0.60" right="0.80" bottom="0.80" />
+      <rect left="0.80" top="0.60" right="1.00" bottom="0.80" />
+      
+      <rect left="0.00" top="0.80" right="0.20" bottom="1.00" />
+      <rect left="0.20" top="0.80" right="0.40" bottom="1.00" />
+      <rect left="0.40" top="0.80" right="0.60" bottom="1.00" />
+      <rect left="0.60" top="0.80" right="0.80" bottom="1.00" />
+      <rect left="0.80" top="0.80" right="1.00" bottom="1.00" />     
+  </card>
+  
+  <card name="main_e_02" num="16" type="compact">
+      <rect left="0.00" top="0.00" right="0.40" bottom="0.40" />
+      <rect left="0.40" top="0.00" right="0.60" bottom="0.20" />
+      <rect left="0.60" top="0.00" right="0.80" bottom="0.20" />
+      <rect left="0.80" top="0.00" right="1.00" bottom="0.20" />
+      
+      <rect left="0.40" top="0.20" right="0.60" bottom="0.40" />
+      <rect left="0.60" top="0.20" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.40" right="0.20" bottom="0.60" />
+      <rect left="0.20" top="0.40" right="0.60" bottom="0.80" />
+      
+      <rect left="0.00" top="0.60" right="0.20" bottom="0.80" />
+      <rect left="0.60" top="0.60" right="0.80" bottom="0.80" />
+      <rect left="0.80" top="0.60" right="1.00" bottom="0.80" />
+      
+      <rect left="0.00" top="0.80" right="0.20" bottom="1.00" />
+      <rect left="0.20" top="0.80" right="0.40" bottom="1.00" />
+      <rect left="0.40" top="0.80" right="0.60" bottom="1.00" />
+      <rect left="0.60" top="0.80" right="0.80" bottom="1.00" />
+      <rect left="0.80" top="0.80" right="1.00" bottom="1.00" />     
+  </card>
+  
+  <card name="main_e_03" num="16" type="compact">
+      <rect left="0.00" top="0.00" right="0.40" bottom="0.40" />
+      <rect left="0.40" top="0.00" right="0.60" bottom="0.20" />
+      <rect left="0.60" top="0.00" right="0.80" bottom="0.20" />
+      <rect left="0.80" top="0.00" right="1.00" bottom="0.20" />
+      
+      <rect left="0.40" top="0.20" right="0.60" bottom="0.40" />
+      <rect left="0.60" top="0.20" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.40" right="0.20" bottom="0.60" />
+      <rect left="0.20" top="0.40" right="0.40" bottom="0.60" />
+      <rect left="0.40" top="0.40" right="0.60" bottom="0.60" />
+      
+      <rect left="0.00" top="0.60" right="0.20" bottom="0.80" />
+      <rect left="0.20" top="0.60" right="0.60" bottom="1.00" />
+      <rect left="0.60" top="0.60" right="0.80" bottom="0.80" />
+      <rect left="0.80" top="0.60" right="1.00" bottom="0.80" />
+      
+      <rect left="0.00" top="0.80" right="0.20" bottom="1.00" />
+      <rect left="0.60" top="0.80" right="0.80" bottom="1.00" />
+      <rect left="0.80" top="0.80" right="1.00" bottom="1.00" />         
+  </card>
+  
+  <card name="main_e_04" num="8" type="compact">
+      <rect left="0.00" top="0.00" right="0.60" bottom="0.60" />
+      <rect left="0.60" top="0.00" right="1.00" bottom="0.40" />
+      <rect left="0.60" top="0.40" right="0.80" bottom="0.60" />
+      <rect left="0.80" top="0.40" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.60" right="0.40" bottom="1.00" />
+      <rect left="0.40" top="0.60" right="0.60" bottom="0.80" />
+      <rect left="0.60" top="0.60" right="1.00" bottom="1.00" />
+      <rect left="0.40" top="0.80" right="0.60" bottom="1.00" />
+  </card>
+  
+  <card name="main_e_05" num="10" type="compact">
+      <rect left="0.00" top="0.00" right="0.60" bottom="0.60" />
+      <rect left="0.60" top="0.00" right="1.00" bottom="0.53" />
+      <rect left="0.60" top="0.53" right="0.73" bottom="0.60" />
+      <rect left="0.73" top="0.53" right="0.86" bottom="0.60" />
+      <rect left="0.86" top="0.53" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.60" right="0.53" bottom="1.00" />
+      <rect left="0.53" top="0.60" right="0.60" bottom="0.73" />
+      <rect left="0.60" top="0.60" right="1.00" bottom="1.00" />
+      <rect left="0.53" top="0.73" right="0.60" bottom="0.86" />
+      <rect left="0.53" top="0.86" right="0.60" bottom="1.00" />
+  </card>
+  
+  <card name="main_e_06" num="13" type="compact">
+      <rect left="0.00" top="0.00" right="0.40" bottom="0.40" />
+      <rect left="0.40" top="0.00" right="0.60" bottom="0.20" />
+      <rect left="0.60" top="0.00" right="1.00" bottom="0.40" />
+      <rect left="0.40" top="0.20" right="0.60" bottom="0.40" />
+      
+      <rect left="0.00" top="0.40" right="0.20" bottom="0.60" />
+      <rect left="0.20" top="0.40" right="0.40" bottom="0.60" />
+      <rect left="0.40" top="0.40" right="0.60" bottom="0.60" />
+      <rect left="0.60" top="0.40" right="0.80" bottom="0.60" />
+      <rect left="0.80" top="0.40" right="1.00" bottom="0.60" />
+      
+      <rect left="0.00" top="0.60" right="0.40" bottom="1.00" />
+      <rect left="0.40" top="0.60" right="0.60" bottom="0.80" />
+      <rect left="0.60" top="0.60" right="1.00" bottom="1.00" />
+      <rect left="0.40" top="0.80" right="0.60" bottom="1.00" />
+  </card>
+  
+  <card name="main_f_01" num="6" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.70" />
+      <rect left="0.50" top="0.00" right="0.75" bottom="0.30" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="0.30" />
+      
+      <rect left="0.50" top="0.30" right="1.00" bottom="1.00" />      
+      <rect left="0.00" top="0.70" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.70" right="0.50" bottom="1.00" />
+  </card>
+  
+  <card name="main_f_02" num="6" type="compact">
+      <rect left="0.00" top="0.00" right="0.70" bottom="0.50" />
+      <rect left="0.70" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.70" top="0.25" right="1.00" bottom="0.50" />
+      
+      <rect left="0.00" top="0.50" right="0.30" bottom="0.75" />      
+      <rect left="0.30" top="0.50" right="1.00" bottom="1.00" />
+      <rect left="0.00" top="0.75" right="0.30" bottom="1.00" />
+  </card>
+  
+  <card name="main_g_01" num="14" type="compact">
+      <rect left="0.000" top="0.000" right="0.332" bottom="0.332" />
+      <rect left="0.332" top="0.000" right="0.832" bottom="0.500" />
+      <rect left="0.832" top="0.000" right="1.000" bottom="0.166" />
+      <rect left="0.832" top="0.166" right="1.000" bottom="0.332" />
+      <rect left="0.000" top="0.332" right="0.166" bottom="0.500" />
+      <rect left="0.166" top="0.332" right="0.332" bottom="0.500" />
+      <rect left="0.832" top="0.332" right="1.000" bottom="0.500" />
+      
+      <rect left="0.000" top="0.500" right="0.166" bottom="0.666" />      
+      <rect left="0.166" top="0.500" right="0.332" bottom="0.666" />
+      <rect left="0.000" top="0.500" right="0.500" bottom="0.666" />
+      <rect left="0.500" top="0.500" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.666" right="0.332" bottom="1.000" />
+      <rect left="0.332" top="0.666" right="0.500" bottom="0.832" />
+      <rect left="0.332" top="0.832" right="0.500" bottom="1.000" />
+  </card>
+  
+  <card name="main_g_02" num="20" type="compact">
+      <rect left="0.000" top="0.000" right="0.166" bottom="0.166" />
+      <rect left="0.166" top="0.000" right="0.332" bottom="0.166" />
+      <rect left="0.332" top="0.000" right="0.500" bottom="0.166" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.500" />
+      
+      <rect left="0.000" top="0.166" right="0.166" bottom="0.332" />
+      <rect left="0.166" top="0.166" right="0.332" bottom="0.332" />
+      <rect left="0.332" top="0.166" right="0.500" bottom="0.332" />
+      
+      <rect left="0.000" top="0.332" right="0.166" bottom="0.500" />
+      <rect left="0.166" top="0.332" right="0.332" bottom="0.500" />
+      <rect left="0.332" top="0.332" right="0.500" bottom="0.500" />
+      
+      <rect left="0.000" top="0.500" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.500" right="0.666" bottom="0.666" />
+      <rect left="0.666" top="0.500" right="0.832" bottom="0.666" />
+      <rect left="0.832" top="0.500" right="1.000" bottom="0.666" />
+      
+      <rect left="0.500" top="0.666" right="0.666" bottom="0.832" />
+      <rect left="0.666" top="0.666" right="0.832" bottom="0.832" />
+      <rect left="0.832" top="0.666" right="1.000" bottom="0.832" />
+      
+      <rect left="0.500" top="0.832" right="0.666" bottom="1.000" />
+      <rect left="0.666" top="0.832" right="0.832" bottom="1.000" />
+      <rect left="0.832" top="0.832" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="main_g_03" num="21" type="compact">
+      <rect left="0.000" top="0.000" right="0.332" bottom="0.332" />
+      <rect left="0.332" top="0.000" right="0.500" bottom="0.166" />
+      <rect left="0.500" top="0.000" right="0.666" bottom="0.166" />
+      <rect left="0.666" top="0.000" right="1.000" bottom="0.332" />
+      
+      <rect left="0.332" top="0.166" right="0.500" bottom="0.332" />
+      <rect left="0.500" top="0.166" right="0.666" bottom="0.332" />
+      
+      <rect left="0.000" top="0.332" right="0.166" bottom="0.500" />
+      <rect left="0.166" top="0.332" right="0.332" bottom="0.500" />
+      <rect left="0.332" top="0.332" right="0.666" bottom="0.666" />
+      <rect left="0.666" top="0.332" right="0.832" bottom="0.500" />
+      <rect left="0.832" top="0.332" right="1.000" bottom="0.500" />
+      
+      <rect left="0.000" top="0.500" right="0.166" bottom="0.666" />
+      <rect left="0.166" top="0.500" right="0.332" bottom="0.666" />
+      <rect left="0.666" top="0.500" right="0.832" bottom="0.666" />
+      <rect left="0.832" top="0.500" right="1.000" bottom="0.666" />
+      
+      <rect left="0.000" top="0.666" right="0.332" bottom="1.000" />
+      <rect left="0.332" top="0.666" right="0.500" bottom="0.832" />
+      <rect left="0.500" top="0.666" right="0.666" bottom="0.832" />
+      <rect left="0.666" top="0.666" right="1.000" bottom="1.000" />
+      
+      <rect left="0.332" top="0.832" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.832" right="0.666" bottom="1.000" />
+  </card>
+  
+  <card name="right_1_2" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="0.375" bottom="1.000" />
+      <rect left="0.375" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.375" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_1_2a" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.500" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_1_3" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.375" bottom="1.000" />
+      <rect left="0.375" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.375" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.375" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_1_3a" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.500" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.500" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_2_1" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="0.625" bottom="1.000" />
+      <rect left="0.625" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.625" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_2_1a" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.500" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_2_2a" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.625" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.375" />
+      <rect left="0.000" top="0.625" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.375" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_2_2b" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.375" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.625" />
+      <rect left="0.000" top="0.375" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.625" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="right_2_3" num="5" type="compact">
+      <rect left="0.000" top="0.000" right="0.375" bottom="0.500" />
+      <rect left="0.375" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.375" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.500" right="0.375" bottom="1.000" />
+      <rect left="0.375" top="0.666" right="1.000" bottom="1.000" />    
+  </card>
+  
+  <card name="right_2_3_a" num="5" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.500" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.500" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.500" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.666" right="1.000" bottom="1.000" />    
+  </card>
+  
+  <card name="right_3_1" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.375" bottom="0.333" />
+      <rect left="0.375" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.333" right="0.375" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="0.375" bottom="1.000" />
+  </card>
+  
+  <card name="right_3_1_a" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.333" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.333" right="0.500" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="0.500" bottom="1.000" />
+  </card>
+  
+  <card name="right_3_2" num="5" type="compact">
+      <rect left="0.000" top="0.000" right="0.375" bottom="0.333" />
+      <rect left="0.375" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.000" top="0.333" right="0.375" bottom="0.666" />
+      <rect left="0.375" top="0.500" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.666" right="0.375" bottom="1.000" />
+  </card>
+  
+  <card name="right_3_2_a" num="5" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="0.333" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.000" top="0.333" right="0.500" bottom="0.666" />
+      <rect left="0.500" top="0.500" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.666" right="0.500" bottom="1.000" />
+  </card>
+  
+  <card name="tile_2_2" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="0.50" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_horz_2" num="2" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.500" />
+      <rect left="0.000" top="0.500" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="tile_horz_3" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.000" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="tile_horz_4" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.00" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.00" top="0.50" right="1.00" bottom="0.75" />
+      <rect left="0.00" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_horz_x112" num="3" type="compact">
+      <rect left="0.000" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.000" top="0.25" right="1.00" bottom="0.50" />
+      <rect left="0.000" top="0.50" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_horz_x121" num="3" type="compact">
+      <rect left="0.000" top="0.00" right="1.00" bottom="0.25" />
+      <rect left="0.000" top="0.25" right="1.00" bottom="0.75" />
+      <rect left="0.000" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_horz_x211" num="3" type="compact">
+      <rect left="0.000" top="0.00" right="1.00" bottom="0.50" />
+      <rect left="0.000" top="0.50" right="1.00" bottom="0.75" />
+      <rect left="0.000" top="0.75" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_vert_2" num="2" type="compact">
+      <rect left="0.000" top="0.000" right="0.500" bottom="1.000" />
+      <rect left="0.500" top="0.000" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="tile_vert_3" num="3" type="compact">
+      <rect left="0.000" top="0.000" right="0.333" bottom="1.000" />
+      <rect left="0.333" top="0.000" right="0.666" bottom="1.000" />
+      <rect left="0.666" top="0.000" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="tile_vert_4" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.00" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_vert_x112" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.00" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.00" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_vert_x121" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.25" bottom="1.00" />
+      <rect left="0.25" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="tile_vert_x211" num="4" type="compact">
+      <rect left="0.00" top="0.00" right="0.50" bottom="1.00" />
+      <rect left="0.50" top="0.00" right="0.75" bottom="1.00" />
+      <rect left="0.75" top="0.00" right="1.00" bottom="1.00" />
+  </card>
+  
+  <card name="wall_a_1" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.000" top="0.333" right="0.666" bottom="0.666" />
+      <rect left="0.666" top="0.333" right="1.000" bottom="1.000" />
+      <rect left="0.000" top="0.666" right="0.666" bottom="1.000" />
+  </card>
+  
+  <card name="wall_a_2" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.000" top="0.333" right="0.333" bottom="1.000" />
+      <rect left="0.333" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.333" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="wall_a_3" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.333" bottom="0.666" />
+      <rect left="0.333" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.333" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="wall_a_4" num="4" type="compact">
+      <rect left="0.000" top="0.000" right="0.666" bottom="0.333" />
+      <rect left="0.666" top="0.000" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.333" right="0.666" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="wall_b_1" num="6" type="compact">
+      <rect left="0.000" top="0.000" right="0.666" bottom="0.333" />
+      <rect left="0.666" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.000" top="0.333" right="0.333" bottom="0.666" />
+      <rect left="0.333" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="0.666" bottom="1.000" />
+      <rect left="0.666" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+  
+  <card name="wall_b_2" num="6" type="compact">
+      <rect left="0.000" top="0.000" right="0.333" bottom="0.333" />
+      <rect left="0.333" top="0.000" right="1.000" bottom="0.333" />
+      <rect left="0.000" top="0.333" right="0.666" bottom="0.666" />
+      <rect left="0.666" top="0.333" right="1.000" bottom="0.666" />
+      <rect left="0.000" top="0.666" right="0.333" bottom="1.000" />
+      <rect left="0.333" top="0.666" right="1.000" bottom="1.000" />
+  </card>
+      
+</postcards>
+
